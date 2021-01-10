@@ -1,0 +1,12 @@
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.deps.json
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Common.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.pdb
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.AssemblyInfoInputs.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.AssemblyInfo.cs
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Common.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Common\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.pdb

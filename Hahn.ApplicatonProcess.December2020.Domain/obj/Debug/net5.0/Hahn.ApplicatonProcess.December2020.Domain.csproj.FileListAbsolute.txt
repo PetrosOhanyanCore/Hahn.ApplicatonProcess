@@ -1,0 +1,17 @@
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.deps.json
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Common.pdb
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csprojAssemblyReference.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfoInputs.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfo.cs
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csproj.CopyComplete
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Users\petro\source\repos\Hahn.ApplicatonProcess\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
